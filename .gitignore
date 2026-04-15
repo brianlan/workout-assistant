@@ -1,0 +1,12 @@
+data/
+backend/static/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.env
+*.egg-info/
+.coverage
+htmlcov/
+test-results/
+playwright-report/
